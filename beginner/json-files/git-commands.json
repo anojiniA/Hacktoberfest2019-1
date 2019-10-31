@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git stash save",
+    "description": "This command temporarily stores all the modified tracked files."
   }
 ]
